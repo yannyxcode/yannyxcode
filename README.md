@@ -7,7 +7,7 @@
 ###
 
 <div align="left">
-  <img src="icons/icons8-css-50.png" height="40"  />
+  <code><img src="icons/icons8-css-50.png" height="40"  /></code>
   <img width="10" />
   <img src="icons/icons8-html-50.png" height="40"  />
   <img width="10" />
