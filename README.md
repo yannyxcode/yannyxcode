@@ -40,7 +40,7 @@
 <!--   <img width="10" /> -->
 </div>
 
-<code><br><p><b>Hello, world!🎀<b> <br>
+<br><code><p><b>Hello, world!🎀<b> <br>
 My name is Yana, and I am a beginner full-stack developer. I am just starting my journey in this amazing and challenging profession, but I have already fallen in love with it wholeheartedly.
 I chose full-stack development because it allows me to combine my interests in programming, design, and database work. I want to create complete web applications and services that will be useful to people and help them solve their problems.
 I try to constantly learn and develop myself to stay up to date with the latest trends and technologies in the development world.
