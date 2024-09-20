@@ -26,15 +26,17 @@
 ###
 
 <div align="left">
-  <img src="icons/icons8-git-50.png" height="40"  />
+  <img src="icons/icons8-c-50.png" height="40"  />
   <img width="10" />
-    <img src="icons/icons8-git-50.png" height="40"  />
+    <img src="icons/icons8-laravel-50.png" height="40"  />
   <img width="10" />
-    <img src="icons/icons8-git-50.png" height="40"  />
+    <img src="icons/icons8-php-50.png" height="40"  />
   <img width="10" />
-    <img src="icons/icons8-git-50.png" height="40"  />
+    <img src="icons/icons8-typescript-50.png" height="40"  />
   <img width="10" />
-    <img src="icons/icons8-git-50.png" height="40"  />
+    <img src="icons/icons8-docker-50.png" height="40"  />
+  <img width="10" />
+    <img src="icons/icons8-postgresql-50.png" height="40"  />
   <img width="10" />
 </div>
 
