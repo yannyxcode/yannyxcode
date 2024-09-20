@@ -8,15 +8,15 @@
 
 <div align="left">
   <code><img src="icons/icons8-css-50.png" height="40"  /></code>
-  <img width="10" />
+<!--   <img width="10" /> -->
   <code><img src="icons/icons8-html-50.png" height="40"  /></code>
-  <img width="10" />
+<!--   <img width="10" /> -->
   <code><img src="icons/icons8-javascript-50.png" height="40"  /></code>
-  <img width="10" />
+<!--   <img width="10" /> -->
   <code><img src="icons/icons8-react-48 (1).png" height="40"  /></code>
-  <img width="10" />
+<!--   <img width="10" /> -->
   <code><img src="icons/icons8-git-50.png" height="40" alt="git logo"  /></code>
-   <img width="10" />
+<!--    <img width="10" /> -->
 </div>
 
 ###
