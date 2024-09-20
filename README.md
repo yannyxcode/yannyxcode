@@ -47,9 +47,8 @@ I try to constantly learn and develop myself to stay up to date with the latest 
 I am open to new ideas and ready to work on interesting projects. I am confident that my experience and knowledge will help me become a good full-stack developer and contribute to the development of the industry.
 I look forward to answering your questions and discussing opportunities for cooperation..</p>
 
-###
 
-<br clear="both">
+
 
 <div align="center">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=yannyxcode&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=synthwave&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
