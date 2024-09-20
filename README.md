@@ -2,7 +2,7 @@
 
 ###
 
-<div> <img align="left" src="icons/icons8-octocat-50.png" height="25"  /> <h3 align="left"> I learn </h3> </div>
+<div> <img align="left" src="icons/icons8-octocat-50.png" height="25"  /> <h3 align="left"> I'm learning </h3> </div>
 
 ###
 
