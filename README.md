@@ -44,7 +44,7 @@
 My name is Yana, and I am a beginner <code>full-stack developer.</code> I am just starting my journey in this amazing and challenging profession, but I have already fallen in love with it wholeheartedly.
 I chose full-stack development because it allows me to combine my interests in programming, design, and database work. I want to create complete web applications and services that will be useful to people and help them solve their problems.
 I try to constantly learn and develop myself to stay up to date with the latest trends and technologies in the development world.
-I am open to new ideas and ready to work on interesting projects. I am confident that my experience and knowledge will help me become a good full-stack developer and contribute to the development of the industry.
+I am open to new ideas and ready to work on interesting projects. I am confident that my experience and knowledge will help me become a good <code>full-stack developer</code> and contribute to the development of the industry.
 I look forward to answering your questions and discussing opportunities for cooperation.🌸</p>
 
 
@@ -52,7 +52,7 @@ I look forward to answering your questions and discussing opportunities for coop
 
 <div align="center">
 <!--   <img align="left" src="https://github-readme-stats.vercel.app/api?username=yannyxcode&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=synthwave&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  /> -->
-  <img font-sizw="20px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yannyxcode&locale=en&hide_title=false&layout=compact&card_width=900&langs_count=5&theme=synthwave&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yannyxcode&locale=en&hide_title=false&layout=compact&card_width=900&langs_count=5&theme=synthwave&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
