@@ -2,43 +2,6 @@
 
 ###
 
-<div> <img align="left" src="icons/icons8-octocat-50.png" height="25"  /> <h3 align="left"> I'm learning </h3> </div>
-
-###
-
-<div align="left">
-  <code><img src="icons/icons8-css-50.png" height="40"  /></code>
-<!--   <img width="10" /> -->
-  <code><img src="icons/icons8-html-50.png" height="40"  /></code>
-<!--   <img width="10" /> -->
-  <code><img src="icons/icons8-javascript-50.png" height="40"  /></code>
-<!--   <img width="10" /> -->
-  <code><img src="icons/icons8-react-48 (1).png" height="40"  /></code>
-<!--   <img width="10" /> -->
-  <code><img src="icons/icons8-git-50.png" height="40" alt="git logo"  /></code>
-<!--    <img width="10" /> -->
-</div>
-
-###
-
-<div> <img align="left" src="icons/icons8-octocat-50.png" height="25"  /> <h3 align="left"> I want to learn </h3> </div>
-
-###
-
-<div align="left">
-  <code><img src="icons/icons8-c-50.png" height="40"  /></code>
-<!--   <img width="10" /> -->
-    <code><img src="icons/icons8-laravel-50.png" height="40"  /></code>
-<!--   <img width="10" /> -->
-    <code><img src="icons/icons8-php-50.png" height="40"  /></code>
-<!--   <img width="10" /> -->
-    <code><img src="icons/icons8-typescript-50.png" height="40"  /></code>
-<!--   <img width="10" /> -->
-    <code><img src="icons/icons8-docker-50.png" height="40"  /></code>
-<!--   <img width="10" /> -->
-    <code><img src="icons/icons8-postgresql-50.png" height="40"  /></code>
-<!--   <img width="10" /> -->
-</div>
 
 <br><p><b>Hello, world!🐍<b> <br>
 
