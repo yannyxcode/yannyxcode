@@ -1,5 +1,5 @@
 
-<img height="400" width="980" src="https://i.pinimg.com/originals/3f/77/d4/3f77d423af4db9e509b520d9d674a92d.gif"/>
+<img height="400" width="980" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGs0ajNlNGd6ZmVxZmNuYzNlemRvaWg3cjhrM2oyaHN5bmswOGhueSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/n5xOuk22LGZFZNPKpX/giphy.webp"/>
  <hr>
 <p align="center"><code> Stack?: HTML, CSS, JavaScript, Webpack, Python</code></p> 
 <hr>
