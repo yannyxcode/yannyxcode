@@ -12,7 +12,6 @@
 <hr>
 
 ## Don’t Repeat Yourself 
-
 ### Keep It Simple, Stupid 
 
 
