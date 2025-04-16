@@ -5,7 +5,7 @@
 <p align="center"><code> Stack: HTML, CSS, TypeScript, JavaScript, React, Webpack, Redux </code></p> 
 <hr>
 <!-- <img  height="400" width="980" src=""/> -->
- <hr>
+ <!-- <hr> -->
  <!-- <img  height="400" width="980" src=""/> -->
 <br>
 <hr>
